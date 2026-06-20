@@ -68,6 +68,3 @@ Each group also uses its own colour theme so the two projects are visually disti
 
 [Harshit Panchal] | [www.linkedin.com/in/harshit-panchal-955887205] | [harshitpanchal2277@gmail.com]
 Open to Data Analyst / Business Intelligence Analyst roles.
-
-[Your Name] | [LinkedIn URL] | [Email]
-Open to Data Analyst / Business Intelligence Analyst roles.
