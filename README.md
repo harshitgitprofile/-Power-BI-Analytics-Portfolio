@@ -1,8 +1,16 @@
-<img width="1366" height="768" alt="Dashboard A -Screenshot )" src="https://github.com/user-attachments/assets/2f2f49c1-835c-4f35-80d1-0ffc18ae80fd" />
+<img width="1366" height="768" alt="Screenshot (378)" src="https://github.com/user-attachments/assets/2308972f-53d1-471f-97d3-ecd230b1d3b4" />
 
-<img width="1366" height="768" alt="Dashboard A -Screenshot" src="https://github.com/user-attachments/assets/03cf5848-3703-46f8-b34e-e85ff86baec1" />
+<img width="1366" height="768" alt="Screenshot (379)" src="https://github.com/user-attachments/assets/b761b73a-593f-4543-ae8f-cca05efd1093" />
 
-<img width="1366" height="768" alt="Dashboard B -Screenshot" src="https://github.com/user-attachments/assets/65a8f28e-e9c0-46e0-b073-a3aff5c0c91d" />
+<img width="1366" height="768" alt="Screenshot (380)" src="https://github.com/user-attachments/assets/735c367f-0531-4155-afa6-8cb0b96cd52b" />
+
+<img width="1366" height="768" alt="Screenshot (381)" src="https://github.com/user-attachments/assets/5c432dad-5999-4962-9c4b-d9571d2ed48c" />
+
+<img width="1366" height="768" alt="Screenshot (382)" src="https://github.com/user-attachments/assets/6495473f-a7a5-47f2-bf96-839f9fa14fec" />
+
+<img width="1366" height="768" alt="Screenshot (383)" src="https://github.com/user-attachments/assets/a718334a-7292-4ebd-8e16-63e5be8f6caf" />
+
+<img width="1366" height="768" alt="Screenshot (384)" src="https://github.com/user-attachments/assets/5454ce63-144d-42e3-97f4-ebd5e0839ecd" />
 
 
 # Power BI Analytics Portfolio
