@@ -1,23 +1,3 @@
-<img width="1366" height="768" alt="Screenshot (242)" src="https://github.com/user-attachments/assets/9b76620e-e86c-41ca-9517-20a45e832ef3" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Power BI Analytics Portfolio
 
 This repository contains **one Power BI file (`.pbix`) that houses two separate, end-to-end analytical dashboards**, built side by side as two distinct sets of report pages within the same file. Each project has its own data tables, its own DAX measures, and its own multi-page narrative — they are kept logically separate even though they live in a single `.pbix`.
